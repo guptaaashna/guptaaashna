@@ -1,162 +1,129 @@
 <h1 align="center">Hi 👋, I'm Aashna Gupta</h1>
 
+<h3 align="center">
+Information Technology Student • AI & Data Science Honors • Builder
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Engineering+Student;Full-Stack+Developer;AI+%26+Data+Analytics+Enthusiast;Hackathon+Builder;Turning+Ideas+Into+Projects" />
+🎓 KJ Somaiya College of Engineering <br>
+📍 Mumbai, India <br>
+📊 CGPA: 9.08 <br>
+🤖 AI • Data Analytics • Full Stack Development
 </p>
 
 <p align="center">
-  <b>🎓 Engineering Student • 💻 Full-Stack Developer • 🤖 AI Enthusiast</b>
-</p>
-
-<p align="center">
-  📍 Mumbai, India
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guptaaashna&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-## 🌟 About Me
-
-```python
-class AashnaGupta:
-
-    location = "Mumbai, India"
-
-    education = "Engineering Student"
-
-    interests = [
-        "Web Development",
-        "Artificial Intelligence",
-        "Data Analytics",
-        "Hackathons"
-    ]
-
-    currently_building = [
-        "AccredX",
-        "AI Projects",
-        "Data Analytics Dashboards"
-    ]
-
-    motto = "Learn → Build → Improve → Repeat"
-```
-
----
-
-## 🚀 Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,git,github,postgres&perline=9" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=guptaaashna&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
 
 ---
 
-## 🏆 Featured Projects
+## 👩‍💻 About Me
 
-### 🎖️ AccredX
+- 🎓 Pursuing B.Tech in Information Technology at KJ Somaiya College of Engineering
+- 🤖 Honors in Artificial Intelligence & Fundamentals of Data Science
+- 💻 Interested in Full Stack Development, AI and Data Analytics
+- 🚀 Currently building **AccredX**, an NBA & NAAC Accreditation Management Platform
+- 🏆 SheCodes Scholar
+- 🥈 AIR 4 – Aarohan 2023 (BITS Pilani)
+- 🌱 Always learning and building
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,git,github,postgres&perline=9" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏆 AccredX (Current Project)
+
 NBA & NAAC Accreditation Management Platform
 
 - Accreditation Workflow Automation
+- Document Repository Management
 - Compliance Tracking
-- Document Repository
-- Analytics Dashboard
+- Institutional Analytics Dashboard
 
 ---
 
-### 🇮🇳 UIDAI Bharat Hackathon Project
+### 🇮🇳 UIDAI Bharat Hackathon
 
-- Citizen-Centric Digital Solution
-- Built During Bharat Hackathon
-- Real-World Problem Solving
-- Scalable Design Approach
+Aadhaar Enrolment Analysis using Python, Pandas, Matplotlib and Seaborn.
+
+- Data Analysis
+- Pattern Discovery
+- Visualization Dashboards
+- Sustainability Indicators
 
 ---
 
 ### 🚔 Crime Analysis 2025
 
-- Crime Trend Detection
-- Data Analytics & Visualization
-- Python + Pandas + Matplotlib
-- Actionable Insights & Reporting
+Exploratory Data Analysis on crime datasets.
+
+- Trend Detection
+- Regional Pattern Analysis
+- Statistical Insights
+- Interactive Visualizations
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=guptaaashna&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaaashna&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=guptaaashna&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaaashna&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=guptaaashna&theme=tokyonight" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guptaaashna&theme=tokyonight&row=1&column=6" />
+<img src="https://streak-stats.demolab.com?user=guptaaashna&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏅 Achievements
 
-<p align="center">
-  <img src="https://github.com/guptaaashna/guptaaashna/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+- 🎖️ AIR 4 – Aarohan 2023 (BITS Pilani)
+- 🎖️ SheCodes Scholar
+- 🎖️ CGPA 9.08
+- 🥇 Gold & Silver Medalist in Badminton
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced React
-- Next.js
+- React Ecosystem
 - PostgreSQL
 - Machine Learning
 - Data Visualization
-- AI Applications
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Build impactful real-world products
-- 🏆 Participate in major hackathons
-- 🤖 Develop AI-powered solutions
-- 📊 Strengthen Data Analytics expertise
-- 💼 Secure top internship opportunities
+- Modern Web Applications
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/aashna-gupta-689426295">
-    <img src="https://img.shields.io/badge/LinkedIn-Aashna%20Gupta-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+💼 LinkedIn  
+https://linkedin.com/in/aashna-gupta-689426295
 
-<p align="center">
-  <a href="https://github.com/guptaaashna">
-    <img src="https://img.shields.io/badge/GitHub-guptaaashna-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+💻 GitHub  
+https://github.com/guptaaashna
+
+📧 momaashi05@gmail.com
 
 ---
 
 <p align="center">
-  ⭐ <b>Code. Learn. Build. Repeat.</b> ⭐
+⭐ Building projects that solve real-world problems.
 </p>
