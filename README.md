@@ -7,7 +7,7 @@ Information Technology Student • AI & Data Science Honors • Builder
 <p align="center">
 🎓 KJ Somaiya College of Engineering <br>
 📍 Mumbai, India <br>
-📊 CGPA: 9.08 <br>
+📊 CGPA: 9.28 <br>
 🤖 AI • Data Analytics • Full Stack Development
 </p>
 
