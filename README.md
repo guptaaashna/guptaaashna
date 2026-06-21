@@ -7,7 +7,7 @@ Information Technology Student • AI & Data Science Honors • Builder
 <p align="center">
 🎓 KJ Somaiya College of Engineering <br>
 📍 Mumbai, India <br>
-📊 CGPA: 9.2825 <br>
+📊 CGPA: 9.28 <br>
 🤖 AI • Data Analytics • Full Stack Development
 </p>
 
@@ -97,7 +97,7 @@ Exploratory Data Analysis on crime datasets.
 
 - 🎖️ AIR 4 – Aarohan 2023 (BITS Pilani)
 - 🎖️ SheCodes Scholar
-- 🎖️ CGPA 9.08
+- 🎖️ CGPA 9.28
 - 🥇 Gold & Silver Medalist in Badminton
 
 ---
