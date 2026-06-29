@@ -98,7 +98,7 @@ Exploratory Data Analysis on crime datasets.
 - 🎖️ AIR 4 – Aarohan 2023 (BITS Pilani)
 - 🎖️ SheCodes Scholar
 - 🎖️ CGPA 9.28
-- 🥇 Gold & Silver Medalist in Badminton
+- 🥇 Gold & Silver Medalist in Badminton Tournaments
 
 ---
 
