@@ -22,7 +22,7 @@ Information Technology Student • AI & Data Science Honors • Builder
 - 🎓 Pursuing B.Tech in Information Technology at KJ Somaiya College of Engineering
 - 🤖 Honors in Artificial Intelligence & Fundamentals of Data Science
 - 💻 Interested in Full Stack Development, AI and Data Analytics
-- 🚀 Currently building **AccredX**, an NBA & NAAC Accreditation Management Platform
+- 🚀 Currently building **AccredX**, an NBA & NAAC Accreditation Management Platform for faculty
 - 🏆 SheCodes Scholar
 - 🥈 AIR 4 – Aarohan 2023 (BITS Pilani)
 - 🌱 Always learning and building
